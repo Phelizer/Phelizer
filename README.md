@@ -1,4 +1,4 @@
-<code>🎓 Full-stack develoepr</code>
+<code>🎓 Full-stack developer</code>
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Full-stack</code><br>
 <code>💡 [Skills](SKILLS.md)</code>

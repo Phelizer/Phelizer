@@ -1,6 +1,6 @@
-<code>🎓 Student: KPI / IS-92</code>
+<code>🎓 Full-stack develoepr</code>
 <code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Frontend</code><br>
+<code>👷 Speciality: Software engineer / Full-stack</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
